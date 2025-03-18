@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Panel
+  - Canvas
+  - Paddle
+  - Ball
+  - Wall
+  - OutOfBounds
+  - TopWall
+  - PowerUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Panel
+  - Water
+  - UI
+  - Paddle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2153910223
+    locked: 0
+  - name: UI
+    uniqueID: 374591297
+    locked: 0
+  - name: Foreground
+    uniqueID: 3429154153
+    locked: 0
+  m_RenderingLayers:
+  - Default
